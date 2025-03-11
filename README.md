@@ -1,6 +1,3 @@
-
-Descripción breve del proyecto.
-
 ## Contexto
 
 Este proyecto consiste en una **aplicación móvil** desarrollada en **Flutter**, que permite a los usuarios realizar el **escaneo de códigos QR** utilizando la cámara del dispositivo. Además, cuenta con integración nativa para mejorar el rendimiento, así como una funcionalidad de **autenticación biométrica** mediante **Face ID** (iOS) o **Huella Digital** (Android), para mejorar la seguridad.
